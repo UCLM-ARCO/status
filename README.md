@@ -1,5 +1,3 @@
-# status
-
 | item         | status                                                                               |
 |--------------|--------------------------------------------------------------------------------------|
 | arco-authors | ![](https://github.com/UCLM-ARCO/arco-authors/workflows/Docker%20image/badge.svg)    |
