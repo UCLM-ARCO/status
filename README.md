@@ -9,6 +9,5 @@
 | **Docencia**  |                                                                                         |
 | net-book      | ![](https://github.com/UCLM-ARCO/net-book/workflows/latex-compile/badge.svg)            |
 | net-book-code | ![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fuclm-arco%2Fnet-book-code) |
-| covid routes  | ![](https://img.shields.io/website?url=https%3A%2F%2Fpike.esi.uclm.es%3A7166%2F)        |
 | upper         | ![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2Fuclm-esi%2Fupper)     |
 | ssdd.examples | ![](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FUCLM-esi%2Fssdd.examples) |
