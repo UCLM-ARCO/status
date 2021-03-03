@@ -3,7 +3,7 @@
 | **PROYECTOS**  | |
 | covid routes   | [![](https://img.shields.io/website?url=https%3A%2F%2Fpike.esi.uclm.es%3A7166%2F)][covid-routes]              |
 | **SISTEMAS**   | |
-| debian         | [![](https://img.shields.io/website?url=https%3A%2F%2Fuclm-arco.github.io%2Fdebian%2F)][debian repo]          |
+| debian         | [![](https://img.shields.io/website?url=https%3A%2F%2Fuclm-arco.github.io%2Fdebian%2F)][debian-repo]          |
 | arco-authors   | [![](https://github.com/UCLM-ARCO/arco-authors/workflows/Docker%20image/badge.svg)][arco-authors]             |
 | curricula      | [![](https://github.com/UCLM-ARCO/curricula/workflows/process-pull-request/badge.svg)][curricula]             |
 | prego          | [![](https://github.com/davidvilla/prego3/workflows/test/badge.svg)][prego]                                   | 
@@ -18,6 +18,7 @@
 
 
 [covid-routes]:    https://pike.esi.uclm.es:7166
+[debian-repo]:     https://uclm-arco.github.io/debian
 [arco-authors]:    https://github.com/UCLM-ARCO/arco-authors
 [curricula]:       https://github.com/UCLM-ARCO/curricula
 [prego]:           https://github.com/davidvilla/prego3
